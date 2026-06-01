@@ -1,15 +1,1 @@
-### Hi there 👋
 
-Here are some informations about me :
-
-- 🔭 I’m currently working on a chatbot in C
-- 🌱 I’m currently learning React.js
-- 👯 I’m looking to collaborate on a website project
-- 📫 How to reach me: valentin.best@outlook.fr
-
-
-<!-- - 🤔 I’m looking for help with ... 
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
